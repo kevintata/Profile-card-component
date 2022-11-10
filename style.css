@@ -11,9 +11,12 @@
 body{
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 15px;
-    background: var(--Dark-cyan);
+    background: url(images/bg-pattern-top.svg) -320px -470px no-repeat, url(images/bg-pattern-bottom.svg) 700px 380px no-repeat;
+    background-color: var(--Dark-cyan);
     color: var(--Very-dark-desaturated-blue);
     text-align: center;
+
+
 }
 
 #bg-card{
